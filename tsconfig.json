@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,    
+  },
+  "exclude": [
+    "bower_components",
+    "node_modules",
+    "typings/browser",
+    "typings/browser.d.ts"
+  ]
+}
